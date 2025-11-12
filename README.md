@@ -2,3 +2,11 @@
 <br>
 <br>
 <h2>Esse foi o meu primeiro projeto</h2>
+
+<h2>Tecnologias ultilizadas</h2>
+<br>
+  <p>-HTML</p>
+  <p>-CSS</p>
+<br>
+<br>
+<img width="1907" height="943" alt="image" src="https://github.com/user-attachments/assets/be9fae57-a9c1-4dde-98ad-565788274c67" />
